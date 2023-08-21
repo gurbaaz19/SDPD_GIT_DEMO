@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SDPD GIT DEMO</string>
-    <string name="hello_class">Hello Class!</string>
+    <string name="hello_class">Hello Class! Count is 0</string>
+    <string name="button">Click to increase count</string>
 </resources>
