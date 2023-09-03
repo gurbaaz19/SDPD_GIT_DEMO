@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         cButton.setOnClickListener {
             count++
             cTextView.text = count.toString()
+
         }
 
     }
